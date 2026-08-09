@@ -1,0 +1,21 @@
+{
+  "repo": "brit-co",
+  "feeds": [
+    {
+      "source": "https://www.brit.co/feeds/feed.rss",
+      "feed_url": "https://www.brit.co/feeds/feed.rss",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.brit.co",
+      "feed_url": "https://www.brit.co/feeds/feed.rss",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 101,
+  "fetched": "2026-08-06T14:08:46Z"
+}

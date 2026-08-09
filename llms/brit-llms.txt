@@ -1,0 +1,641 @@
+# Brit &#43; Co
+
+Site ID: 19876466
+
+Markdown version: append .md to any URL
+
+Total sections: 310
+
+
+## Content Sections
+
+- [Fashion](./fashion/index.md): Section: Fashion - Find your creative fashion spark plus daily home, food, and DIY inspiration! (9240 posts)
+
+- [Food](./food/index.md): Section: Food - Express your creativity in the kitchen with our favorite DIY food recipes! (8573 posts)
+
+- [Recipes](./food/recipes/index.md): Section: Recipes - Express your creativity in the kitchen with our favorite DIY recipes! (7642 posts)
+
+- [Appetizers](./food/recipes/appetizers/index.md): Section: Appetizers - Express your creativity in the kitchen with our favorite DIY appetizer recipes! (492 posts)
+
+- [Desserts](./food/recipes/desserts/index.md): Section: Desserts - Express your creativity in the kitchen with our favorite DIY dessert recipes! (1679 posts)
+
+- [Cocktails](./food/recipes/cocktails/index.md): Section: Cocktails - Express your creativity in the kitchen with our favorite DIY cocktail recipes! (907 posts)
+
+- [Food News &amp; Menu Updates](./food/news/index.md): Section: Food News &amp; Menu Updates - Explore your creativity in the kitchen with our favorite food and recipe news! (3081 posts)
+
+- [Clean &amp; Healthy Eating](./food/news/clean-healthy-eating/index.md): Section: Clean &amp; Healthy Eating - Find healthy eating content plus daily home, food, and DIY inspiration! (1286 posts)
+
+- [Self Care Beauty](./self-care/index.md): Section: Self Care Beauty - Find your creative spark around the home plus daily home, food, and DIY inspiration! (8875 posts)
+
+- [Beauty &amp; Skin Care](./self-care/beauty-skin-care/index.md): Section: Beauty &amp; Skin Care - Find your creative beauty spark plus daily home, food, and DIY inspiration! (5654 posts)
+
+- [DIY Beauty](./self-care/beauty-skin-care/diy-beauty/index.md): Section: DIY Beauty - Find your creative DIY beauty ideas plus daily home, food, and DIY inspiration! (267 posts)
+
+- [Skincare](./self-care/beauty-skin-care/skincare/index.md): Section: Skincare - Explore creative skincare ideas plus daily home, food, and DIY inspiration! (1005 posts)
+
+- [Beauty News](./self-care/beauty-skin-care/beauty-news/index.md): Section: Beauty News - Find creative beauty news plus daily home, food, and DIY inspiration! (2215 posts)
+
+- [Nails](./self-care/beauty-skin-care/nails/index.md): Section: Nails - Explore creative nail art and styles plus daily home, food, and DIY inspiration! (656 posts)
+
+- [Hair](./self-care/beauty-skin-care/hair/index.md): Section: Hair - Find your creative hair styles plus daily home, food, and DIY inspiration! (3155 posts)
+
+- [Makeup](./self-care/beauty-skin-care/makeup/index.md): Section: Makeup - Find your creative makeup spark plus daily home, food, and DIY inspiration! (1277 posts)
+
+- [Tattoos](./self-care/beauty-skin-care/tattoos/index.md): Section: Tattoos - Find creative tattoo ideas plus daily home, food, and DIY inspiration! (153 posts)
+
+- [Home Organization &amp; Cleaning](./self-care/home-organization-cleaning/index.md): Section: Home Organization &amp; Cleaning - Find creative organizing and cleaning ideas plus daily home, food, and DIY inspiration! (824 posts)
+
+- [Non-Toxic Living](./self-care/home-organization-cleaning/non-toxic-living-products/index.md): Section: Non-Toxic Living - Clean living starts here: shop non-toxic faves for a safer, healthier home. (12 posts)
+
+- [Creativity &amp; DIY](./self-care/creativity-diy/index.md): Section: Creativity &amp; DIY - Explore coverage on creativity plus daily home, food, and DIY inspiration! (4726 posts)
+
+- [Financial Wellbeing](./self-care/money-budgeting-finances/index.md): Section: Financial Wellbeing - Explore money advice and adulting hacks plus daily home, food, and DIY inspiration! (1296 posts)
+
+- [A Better Work Life](./self-care/work-life/index.md): Section: A Better Work Life - Explore work hacks plus daily home, food, and DIY inspiration! (1832 posts)
+
+- [Home News](./self-care/home-news/index.md): Section: Home News - Find your creative home news plus daily home, food, and DIY inspiration! (7204 posts)
+
+- [Health](./self-care/health/index.md): Section: Health - Find creative health content plus daily home, food, and DIY inspiration! (4995 posts)
+
+- [Issues](./issues/index.md): Section: Issues - Find your spark with current issues plus daily home, food, and DIY inspiration! (2803 posts)
+
+- [Current Events](./issues/current-events/index.md): Section: Current Events - Find current event coverage plus daily home, food, and DIY inspiration! (2002 posts)
+
+- [Gender Issues](./issues/gender-issues/index.md): Section: Gender Issues - Find coverage of gender issues plus daily home, food, and DIY inspiration! (312 posts)
+
+- [Politics](./issues/politics/index.md): Section: Politics - Find coverage of politics plus daily home, food, and DIY inspiration! (1539 posts)
+
+- [Womens Health](./issues/womens-health/index.md): Section: Womens Health - Find coverage on women&#39;s health plus daily home, food, and DIY inspiration! (509 posts)
+
+- [Empowerment](./issues/empowerment/index.md): Section: Empowerment - Find empowerment coverage plus daily home, food, and DIY inspiration! (605 posts)
+
+- [Diversity](./issues/diversity/index.md): Section: Diversity - Find diversity coverage plus daily home, food, and DIY inspiration! (301 posts)
+
+- [Body Positivity](./issues/body-positivity/index.md): Section: Body Positivity - Find coverage on body positivity plus daily home, food, and DIY inspiration! (133 posts)
+
+- [Holidays &amp; Celebrations](./holidays-celebrations/index.md): Section: Holidays &amp; Celebrations - Find your creative holiday spark plus daily home, food, and DIY inspiration! (1281 posts)
+
+- [Parties](./holidays-celebrations/parties/index.md): Section: Parties - Find creative party ideas plus daily home, food, and DIY inspiration! (3861 posts)
+
+- [Weddings](./holidays-celebrations/weddings/index.md): Section: Weddings - Find your creative wedding sparks plus daily home, food, and DIY inspiration! (74 posts)
+
+- [Wedding Beauty](./holidays-celebrations/weddings/beauty/index.md): Section: Wedding Beauty - Explore wedding beauty ideas plus daily home, food, and DIY inspiration! (149 posts)
+
+- [Wedding Style](./holidays-celebrations/weddings/style/index.md): Section: Wedding Style - Find your creative wedding style spark plus daily home, food, and DIY inspiration! (924 posts)
+
+- [Wedding Planning and Decor](./holidays-celebrations/weddings/planning-decor/index.md): Section: Wedding Planning and Decor - Find content on wedding planning and decor plus daily home, food, and DIY inspiration! (1278 posts)
+
+- [Halloween](./holidays-celebrations/halloween/index.md): Section: Halloween - Find your creative halloween spark and costume ideas plus daily home, food, and DIY inspiration! (131 posts)
+
+- [Halloween Costumes](./holidays-celebrations/halloween/halloween-costumes/index.md): Section: Halloween Costumes - Find great halloween costume ideas plus daily home, food, and DIY inspiration! (1072 posts)
+
+- [Valentine&#39;s Day](./holidays-celebrations/valentines-day/index.md): Section: Valentine&#39;s Day - Celebrate love in all forms with gifts, DIYs, and sweet moments for the heart. (49 posts)
+
+- [Easter](./holidays-celebrations/easter/index.md): Section: Easter - Hop into spring with creative Easter ideas, from crafts to treats and tablescapes. (47 posts)
+
+- [Mother&#39;s Day](./holidays-celebrations/mothers-day/index.md): Section: Mother&#39;s Day - Make her day with thoughtful gifts, creative crafts, and stories to inspire. (31 posts)
+
+- [Father&#39;s Day](./holidays-celebrations/fathers-day/index.md): Section: Father&#39;s Day - Celebrate Dad with gift ideas, stories, and bonding tips he’ll love. (11 posts)
+
+- [Fourth of July](./holidays-celebrations/fourth-july/index.md): Section: Fourth of July - Red, white, and woohoo! Festive ideas to fire up your Independence Day. (18 posts)
+
+- [Thanksgiving](./holidays-celebrations/thanksgiving/index.md): Section: Thanksgiving - Turkey, table settings, and gratitude-filled gatherings to warm your fall. (58 posts)
+
+- [New Year&#39;s Day](./holidays-celebrations/new-years-day/index.md): Section: New Year&#39;s Day - Start fresh with goal-setting tips, wellness rituals, and inspiration to own your year. (32 posts)
+
+- [Christmas](./holidays-celebrations/christmas/index.md): Section: Christmas - Gifts, decor, and DIYs to make your holiday season bright, cozy, and full of cheer. (109 posts)
+
+- [Relationships &amp; Family](./relationships-family/index.md): Section: Relationships &amp; Family - Creative and supportive pregnancy and parenting tips for Moms plus daily home, food, and DIY inspiration! (3924 posts)
+
+- [Pregnancy](./relationships-family/pregnancy/index.md): Section: Pregnancy - Find coverage on pregnancy content plus daily home, food, and DIY inspiration! (399 posts)
+
+- [Baby Names](./relationships-family/baby-names/index.md): Section: Baby Names - Explore baby name ideas plus daily home, food, and DIY inspiration! (823 posts)
+
+- [Parenting](./relationships-family/parenting/index.md): Section: Parenting - Find coverage on parenting plus daily home, food, and DIY inspiration! (1820 posts)
+
+- [New Moms](./relationships-family/new-mom-resources/index.md): Section: New Moms - Tips, tools, and honest advice to support and celebrate new motherhood. (13 posts)
+
+- [Lifestyle](./lifestyle/index.md): Section: Lifestyle - Find your lifestyle, health, tech, and creative content plus daily home, food, and DIY inspiration! (13516 posts)
+
+- [Celebrity News](./celebrity-news/index.md): Section: Celebrity News - Find your celebrity news spark plus daily home, food, and DIY inspiration! (11296 posts)
+
+- [Celeb Style](./celebrity-news/celeb-style/index.md): Section: Celeb Style - Find your creative celeb style spark plus daily home, food, and DIY inspiration! (2163 posts)
+
+- [Red Carpet](./celebrity-news/red-carpet/index.md): Section: Red Carpet - Explore red carpet fashion plus daily home, food, and DIY inspiration! (157 posts)
+
+- [Celebrity Couples](./celebrity-news/celebrity-couples/index.md): Section: Celebrity Couples - From red carpet moments to real love stories, dive into celeb couple updates. (224 posts)
+
+- [Relationship Timelines](./celebrity-news/celebrity-couples/relationship-timelines/index.md): Section: Relationship Timelines - Follow the full love journey of your favorite celebrity couples. (40 posts)
+
+- [Entertainment](./entertainment/index.md): Section: Entertainment - Find your entertainment spark plus daily home, food, and DIY inspiration! (16904 posts)
+
+- [TV](./entertainment/tv-what-to-watch/index.md): Section: TV - Binge-worthy series and nostalgic shows to explore based on the recommendations of Brit &#43; Co&#39;s team of editors. (5897 posts)
+
+- [Rewatching](./entertainment/tv-what-to-watch/best-rewatches/index.md): Section: Rewatching - Binge-worthy series and nostalgic shows that are just as good the second (or fifth) time. (60 posts)
+
+- [Movies](./entertainment/movies-what-to-watch/index.md): Section: Movies - Find your movies spark plus daily home, food, and DIY inspiration! (2690 posts)
+
+- [Music](./entertainment/music/index.md): Section: Music - Find your music spark plus daily home, food, and DIY inspiration! (1040 posts)
+
+- [Books](./entertainment/books-what-to-read-right-now/index.md): Section: Books - Your go-to guide for the best reads to add to your TBR list right now. (304 posts)
+
+- [Static Pages](./static-pages/index.md): Section: Static Pages - Find your creative spark plus daily home, food, and DIY inspiration! (3 posts)
+
+- [Healthy Eating](./homepage-sections/healthy-eating/index.md): Section: Healthy Eating - Find your healthy eating spark plus daily home, food, and DIY inspiration! (856 posts)
+
+- [Shopping](./homepage-sections/shopping/index.md): Section: Shopping - Find your creative shopping spark plus daily home, food, and DIY inspiration! (1983 posts)
+
+- [Do It Yourself](./homepage-sections/do-it-yourself/index.md): Section: Do It Yourself - Find your creative DIY spark plus daily home, food, and fashion inspiration! (794 posts)
+
+- [Most Recent](./homepage-sections/most-recent/index.md): Section: Most Recent - Explore our most recent creative spark plus daily home, food, and DIY inspiration! (59726 posts)
+
+- [Self Care](./homepage-sections/self-care/index.md): Section: Self Care - Find your creative self-care spark plus daily home, food, and DIY inspiration! (595 posts)
+
+- [Community Stories](./homepage-sections/community-stories/index.md): Section: Community Stories - Explore creative community stories plus daily home, food, and DIY inspiration! (66 posts)
+
+- [Today&#39;s Must Reads](./todays-must-reads/index.md): Section: Today&#39;s Must Reads - Explore our creative must read coverage plus daily home, food, and DIY inspiration! (9813 posts)
+
+- [Brands](./brands/index.md): Section: Brands - Explore brand spotlights, product collabs, and stories behind your favorite Brit &#43; Co partnerships. (255 posts)
+
+- [PERDUE® Chicken in partnership with U.S. Soy](./brands/perdue-chicken-in-partnership-with-us-soy/index.md): Section: PERDUE® Chicken in partnership with U.S. Soy (2 posts)
+
+- [Avocado Mattress](./brands/avocado-mattress/index.md): Section: Avocado Mattress (2 posts)
+
+- [Cambria Estate Winery](./brands/cambria-estate-winery/index.md): Section: Cambria Estate Winery (2 posts)
+
+- [H&amp;M](./brands/hm/index.md): Section: H&amp;M (5 posts)
+
+- [Pottery Barn](./brands/pottery-barn/index.md): Section: Pottery Barn (2 posts)
+
+- [Clorox](./brands/clorox/index.md): Section: Clorox (3 posts)
+
+- [Baileys](./brands/baileys/index.md): Section: Baileys (1 posts)
+
+- [adidas](./brands/adidas/index.md): Section: adidas (1 posts)
+
+- [hint® water](./brands/hint-water/index.md): Section: hint® water (1 posts)
+
+- [GoMacro](./brands/gomacro/index.md): Section: GoMacro (1 posts)
+
+- [Almond Board of California](./brands/almond-board-of-california/index.md): Section: Almond Board of California (8 posts)
+
+- [Disney](./brands/disney/index.md): Section: Disney (8 posts)
+
+- [Café Appliances](./brands/cafe-appliances/index.md): Section: Café Appliances (2 posts)
+
+- [Finish® Quantum®](./brands/finish-quantum/index.md): Section: Finish® Quantum® (1 posts)
+
+- [Dunkin&#39; Donuts](./brands/dunkin-donuts/index.md): Section: Dunkin&#39; Donuts (4 posts)
+
+- [Yasso](./brands/yasso/index.md): Section: Yasso (3 posts)
+
+- [Amazon](./brands/amazon/index.md): Section: Amazon (12 posts)
+
+- [Adero](./brands/adero/index.md): Section: Adero (1 posts)
+
+- [Kohl&#39;s](./brands/kohls/index.md): Section: Kohl&#39;s (4 posts)
+
+- [Office Depot](./brands/office-depot/index.md): Section: Office Depot (16 posts)
+
+- [LOFT](./brands/loft/index.md): Section: LOFT (1 posts)
+
+- [Allstate](./brands/allstate/index.md): Section: Allstate (1 posts)
+
+- [HelloFresh](./brands/hellofresh/index.md): Section: HelloFresh (1 posts)
+
+- [OCHO Candy™](./brands/ocho-candy/index.md): Section: OCHO Candy™ (1 posts)
+
+- [Alba Botanica®](./brands/alba-botanica/index.md): Section: Alba Botanica® (5 posts)
+
+- [IKEA®](./brands/ikea/index.md): Section: IKEA® (20 posts)
+
+- [Burt’s Bees Natural Launchpad](./brands/burts-bees-natural-launchpad/index.md): Section: Burt’s Bees Natural Launchpad (1 posts)
+
+- [Boursin® Cheese](./brands/boursin-cheese/index.md): Section: Boursin® Cheese (4 posts)
+
+- [Entenmann’s Little Bites®](./brands/entenmanns-little-bites/index.md): Section: Entenmann’s Little Bites® (1 posts)
+
+- [Alterna Haircare](./brands/alterna-haircare/index.md): Section: Alterna Haircare (1 posts)
+
+- [Cotton](./brands/cotton/index.md): Section: Cotton (12 posts)
+
+- [Boost Mobile®](./brands/boost-mobile/index.md): Section: Boost Mobile® (1 posts)
+
+- [Allbirds](./brands/allbirds/index.md): Section: Allbirds (1 posts)
+
+- [Holland House](./brands/holland-house/index.md): Section: Holland House (2 posts)
+
+- [Studio Ink](./brands/studio-ink/index.md): Section: Studio Ink (15 posts)
+
+- [David&#39;s Bridal](./brands/davids-bridal/index.md): Section: David&#39;s Bridal (1 posts)
+
+- [Day Owl Rose](./brands/day-owl-rose/index.md): Section: Day Owl Rose (2 posts)
+
+- [McDonald&#39;s](./brands/mcdonalds/index.md): Section: McDonald&#39;s (8 posts)
+
+- [Barilla](./brands/barilla/index.md): Section: Barilla (2 posts)
+
+- [Hershey](./brands/hershey/index.md): Section: Hershey (4 posts)
+
+- [JOHNSON’S®](./brands/johnsons/index.md): Section: JOHNSON’S® (3 posts)
+
+- [IZZE](./brands/izze/index.md): Section: IZZE (3 posts)
+
+- [zulily](./brands/zulily/index.md): Section: zulily (1 posts)
+
+- [Johnson &amp; Johnson](./brands/johnson-johnson/index.md): Section: Johnson &amp; Johnson (2 posts)
+
+- [Mondelēz International group](./brands/mondelez-international-group/index.md): Section: Mondelēz International group (1 posts)
+
+- [Savers](./brands/savers/index.md): Section: Savers (6 posts)
+
+- [Purina Beyond All Natural Dog Snacks](./brands/purina-beyond-all-natural-dog-snacks/index.md): Section: Purina Beyond All Natural Dog Snacks (1 posts)
+
+- [Barefoot Refresh Spritzers](./brands/barefoot-refresh-spritzers/index.md): Section: Barefoot Refresh Spritzers (1 posts)
+
+- [Curate](./brands/curate/index.md): Section: Curate (3 posts)
+
+- [Lowe&#39;s](./brands/lowes/index.md): Section: Lowe&#39;s (10 posts)
+
+- [VTech](./brands/vtech/index.md): Section: VTech (2 posts)
+
+- [Healthy Essentials](./brands/healthy-essentials/index.md): Section: Healthy Essentials (5 posts)
+
+- [The Noseprint™](./brands/the-noseprint/index.md): Section: The Noseprint™ (1 posts)
+
+- [Nutella®](./brands/nutella/index.md): Section: Nutella® (1 posts)
+
+- [Google](./brands/google/index.md): Section: Google (6 posts)
+
+- [St. Ives®](./brands/st-ives/index.md): Section: St. Ives® (7 posts)
+
+- [Coca-Cola](./brands/coca-cola/index.md): Section: Coca-Cola (2 posts)
+
+- [Old Navy](./brands/old-navy/index.md): Section: Old Navy (4 posts)
+
+- [Barefoot Bubbly](./brands/barefoot-bubbly/index.md): Section: Barefoot Bubbly (3 posts)
+
+- [Keurig](./brands/keurig/index.md): Section: Keurig (1 posts)
+
+- [Vintage Wine Estates](./brands/vintage-wine-estates/index.md): Section: Vintage Wine Estates (1 posts)
+
+- [Peet’s](./brands/peets/index.md): Section: Peet’s (1 posts)
+
+- [Coinstar](./brands/coinstar/index.md): Section: Coinstar (1 posts)
+
+- [MRS. SMITH’S®](./brands/mrs-smiths/index.md): Section: MRS. SMITH’S® (2 posts)
+
+- [LAY’S® Wavy](./brands/lays-wavy/index.md): Section: LAY’S® Wavy (34 posts)
+
+- [Target](./brands/target/index.md): Section: Target (13 posts)
+
+- [Dairy Good](./brands/dairy-good/index.md): Section: Dairy Good (2 posts)
+
+- [BELLA](./brands/bella/index.md): Section: BELLA (1 posts)
+
+- [eBay](./brands/ebay/index.md): Section: eBay (1 posts)
+
+- [Starbucks](./brands/starbucks/index.md): Section: Starbucks (13 posts)
+
+- [Bon Appétit Pizza](./brands/bon-appetit-pizza/index.md): Section: Bon Appétit Pizza (1 posts)
+
+- [Intel](./brands/intel/index.md): Section: Intel (2 posts)
+
+- [Crayola](./brands/crayola/index.md): Section: Crayola (4 posts)
+
+- [Method](./brands/method/index.md): Section: Method (2 posts)
+
+- [Sizzix](./brands/sizzix/index.md): Section: Sizzix (1 posts)
+
+- [Sugru](./brands/sugru/index.md): Section: Sugru (1 posts)
+
+- [Glade](./brands/glade/index.md): Section: Glade (1 posts)
+
+- [SKYY® Vodka](./brands/skyy-vodka/index.md): Section: SKYY® Vodka (6 posts)
+
+- [ecobee](./brands/ecobee/index.md): Section: ecobee (1 posts)
+
+- [BHLDN](./brands/bhldn/index.md): Section: BHLDN (1 posts)
+
+- [Incredible Edible Egg](./brands/incredible-edible-egg/index.md): Section: Incredible Edible Egg (1 posts)
+
+- [Zola](./brands/zola/index.md): Section: Zola (1 posts)
+
+- [Forever 21](./brands/forever-21/index.md): Section: Forever 21 (1 posts)
+
+- [Velcro](./brands/velcro/index.md): Section: Velcro (2 posts)
+
+- [All Who Wander](./brands/all-who-wander/index.md): Section: All Who Wander (1 posts)
+
+- [Dove](./brands/dove/index.md): Section: Dove (2 posts)
+
+- [Sherwin-Williams®](./brands/sherwin-williams/index.md): Section: Sherwin-Williams® (20 posts)
+
+- [Beautycounter](./brands/beautycounter/index.md): Section: Beautycounter (1 posts)
+
+- [L&#39;Oréal Paris](./brands/loreal-paris/index.md): Section: L&#39;Oréal Paris (3 posts)
+
+- [Prophecy Wines](./brands/prophecy-wines/index.md): Section: Prophecy Wines (1 posts)
+
+- [The Home Depot](./brands/the-home-depot/index.md): Section: The Home Depot (10 posts)
+
+- [Ulta Beauty](./brands/ulta-beauty/index.md): Section: Ulta Beauty (2 posts)
+
+- [Barilla® Ready Pasta](./brands/barilla-ready-pasta/index.md): Section: Barilla® Ready Pasta (2 posts)
+
+- [OXO](./brands/oxo/index.md): Section: OXO (3 posts)
+
+- [Netflix](./brands/netflix/index.md): Section: Netflix (1 posts)
+
+- [Vanity Fair](./brands/vanity-fair/index.md): Section: Vanity Fair (1 posts)
+
+- [PicMonkey](./brands/picmonkey/index.md): Section: PicMonkey (1 posts)
+
+- [Amazon Handmade](./brands/amazon-handmade/index.md): Section: Amazon Handmade (1 posts)
+
+- [Air Wick](./brands/air-wick/index.md): Section: Air Wick (1 posts)
+
+- [SK-II](./brands/sk-ii/index.md): Section: SK-II (1 posts)
+
+- [Mixbook](./brands/mixbook/index.md): Section: Mixbook (1 posts)
+
+- [Plum Organics ®](./brands/plum-organics/index.md): Section: Plum Organics ® (4 posts)
+
+- [Disney Pixar](./brands/disney-pixar/index.md): Section: Disney Pixar (4 posts)
+
+- [Aveda](./brands/aveda/index.md): Section: Aveda (1 posts)
+
+- [Sexy Hair](./brands/sexy-hair/index.md): Section: Sexy Hair (1 posts)
+
+- [HP](./brands/hp/index.md): Section: HP (1 posts)
+
+- [Samsung](./brands/samsung/index.md): Section: Samsung (3 posts)
+
+- [PERDUE® Chicken](./brands/perdue/index.md): Section: PERDUE® Chicken (4 posts)
+
+- [My M&amp;M&#39;S](./brands/my-mms/index.md): Section: My M&amp;M&#39;S (1 posts)
+
+- [Acer](./brands/acer/index.md): Section: Acer (1 posts)
+
+- [Ford](./brands/ford/index.md): Section: Ford (1 posts)
+
+- [NBC&#39;s Making It](./brands/nbcs-making-it/index.md): Section: NBC&#39;s Making It (1 posts)
+
+- [JCPenney](./brands/jcpenney/index.md): Section: JCPenney (1 posts)
+
+- [Pier 1](./brands/pier-1/index.md): Section: Pier 1 (1 posts)
+
+- [Intuit QuickBooks](./brands/intuit-quickbooks/index.md): Section: Intuit QuickBooks (1 posts)
+
+- [Mon Amie](./brands/mon-amie/index.md): Section: Mon Amie (1 posts)
+
+- [Kia](./brands/kia/index.md): Section: Kia (1 posts)
+
+- [GoDaddy](./brands/godaddy/index.md): Section: GoDaddy (1 posts)
+
+- [French&#39;s](./brands/frenchs/index.md): Section: French&#39;s (1 posts)
+
+- [FUJIFILM Instax®](./brands/fujifilm-instax/index.md): Section: FUJIFILM Instax® (1 posts)
+
+- [Lyft](./brands/lyft/index.md): Section: Lyft (1 posts)
+
+- [SOREL](./brands/sorel/index.md): Section: SOREL (1 posts)
+
+- [Sephora](./brands/sephora/index.md): Section: Sephora (1 posts)
+
+- [Citizen](./brands/citizen/index.md): Section: Citizen (1 posts)
+
+- [Weight Watchers](./brands/weight-watchers/index.md): Section: Weight Watchers (1 posts)
+
+- [Arla cheese](./brands/arla-cheese/index.md): Section: Arla cheese (1 posts)
+
+- [Minwax](./brands/minwax/index.md): Section: Minwax (1 posts)
+
+- [Talenti](./brands/talenti/index.md): Section: Talenti (1 posts)
+
+- [all® fresh clean ESSENTIALS®](./brands/all-fresh-clean-essentials/index.md): Section: all® fresh clean ESSENTIALS® (1 posts)
+
+- [Folgers](./brands/folgers/index.md): Section: Folgers (1 posts)
+
+- [Johnson &amp; Johnson Consumer Inc.](./brands/johnson-johnson-consumer-inc/index.md): Section: Johnson &amp; Johnson Consumer Inc. (1 posts)
+
+- [Weebly](./brands/weebly/index.md): Section: Weebly (1 posts)
+
+- [JoAnn](./brands/joann/index.md): Section: JoAnn (1 posts)
+
+- [Ghirardelli](./brands/ghirardelli/index.md): Section: Ghirardelli (4 posts)
+
+- [Hidden Valley Ranch](./brands/hidden-valley-ranch/index.md): Section: Hidden Valley Ranch (1 posts)
+
+- [Cupcake Vineyards](./brands/cupcake-vineyards/index.md): Section: Cupcake Vineyards (1 posts)
+
+- [Hidden Valley®](./brands/hidden-valley/index.md): Section: Hidden Valley® (1 posts)
+
+- [Kleenex® Brand](./brands/kleenex-brand/index.md): Section: Kleenex® Brand (1 posts)
+
+- [Ziploc®](./brands/ziploc/index.md): Section: Ziploc® (1 posts)
+
+- [California Walnuts](./brands/california-walnuts/index.md): Section: California Walnuts (1 posts)
+
+- [Vera Bradley](./brands/vera-bradley/index.md): Section: Vera Bradley (1 posts)
+
+- [Scotch™ Brand](./brands/scotch-brand/index.md): Section: Scotch™ Brand (15 posts)
+
+- [Michaels](./brands/michaels/index.md): Section: Michaels (2 posts)
+
+- [TRISCUIT](./brands/triscuit/index.md): Section: TRISCUIT (14 posts)
+
+- [Zenni Optical](./brands/zenni-optical/index.md): Section: Zenni Optical (2 posts)
+
+- [Teva](./brands/teva/index.md): Section: Teva (1 posts)
+
+- [Bevy](./brands/bevy/index.md): Section: Bevy (1 posts)
+
+- [Palm Breeze](./brands/palm-breeze/index.md): Section: Palm Breeze (1 posts)
+
+- [Enjoy](./brands/enjoy/index.md): Section: Enjoy (1 posts)
+
+- [Luna](./brands/luna/index.md): Section: Luna (1 posts)
+
+- [Chateau Ste. Michelle](./brands/chateau-ste-michelle/index.md): Section: Chateau Ste. Michelle (1 posts)
+
+- [Tablespoon](./brands/tablespoon/index.md): Section: Tablespoon (1 posts)
+
+- [Close5](./brands/close5/index.md): Section: Close5 (1 posts)
+
+- [Toyota](./brands/toyota/index.md): Section: Toyota (1 posts)
+
+- [GE](./brands/ge/index.md): Section: GE (1 posts)
+
+- [The Container Store](./brands/the-container-store/index.md): Section: The Container Store (1 posts)
+
+- [Chex™](./brands/chex/index.md): Section: Chex™ (1 posts)
+
+- [UNIQLO](./brands/uniqlo/index.md): Section: UNIQLO (1 posts)
+
+- [American Express](./brands/american-express/index.md): Section: American Express (1 posts)
+
+- [The Bach](./brands/the-bach/index.md): Section: The Bach (1 posts)
+
+- [BlueLounge](./brands/bluelounge/index.md): Section: BlueLounge (1 posts)
+
+- [Epic Reads](./brands/epic-reads/index.md): Section: Epic Reads (1 posts)
+
+- [Purecane](./brands/purecane/index.md): Section: Purecane
+
+- [Office Depot® Office Max®](./brands/office-depot-office-max/index.md): Section: Office Depot® Office Max® (90 posts)
+
+- [Charles Schwab](./brands/charles-schwab/index.md): Section: Charles Schwab (1 posts)
+
+- [Adobe](./brands/adobe/index.md): Section: Adobe (2 posts)
+
+- [The Leukemia &amp; Lymphoma Society](./brands/leukemia-lymphoma-society/index.md): Section: The Leukemia &amp; Lymphoma Society (4 posts)
+
+- [Adore Me](./brands/adore-me/index.md): Section: Adore Me (1 posts)
+
+- [HASK Hair](./brands/hask-hair/index.md): Section: HASK Hair (1 posts)
+
+- [Block Advisors](./brands/block-advisors/index.md): Section: Block Advisors (11 posts)
+
+- [Boxed Water™](./brands/boxed-water/index.md): Section: Boxed Water™ (2 posts)
+
+- [NerdWallet](./brands/nerdwallet/index.md): Section: NerdWallet (2 posts)
+
+- [LG](./brands/lg/index.md): Section: LG (1 posts)
+
+- [Tillamook](./brands/tillamook/index.md): Section: Tillamook (2 posts)
+
+- [Pandora Jewelry](./brands/pandora-jewelry/index.md): Section: Pandora Jewelry (1 posts)
+
+- [Bank of America](./brands/bank-of-america/index.md): Section: Bank of America (1 posts)
+
+- [ARM &amp; HAMMER™](./brands/arm-hammer/index.md): Section: ARM &amp; HAMMER™ (1 posts)
+
+- [Press Pause Project](./brands/press-pause-project/index.md): Section: Press Pause Project (1 posts)
+
+- [Opendoor](./brands/opendoor/index.md): Section: Opendoor (1 posts)
+
+- [WW](./brands/ww/index.md): Section: WW (1 posts)
+
+- [TurboTax Live](./brands/turbotax-live/index.md): Section: TurboTax Live (3 posts)
+
+- [&#43;PlusCBD](./brands/pluscbd/index.md): Section: &#43;PlusCBD (1 posts)
+
+- [The Marine Stewardship Council](./brands/the-marine-stewardship-council/index.md): Section: The Marine Stewardship Council (1 posts)
+
+- [Häagen-Dazs](./brands/haagen-dazs/index.md): Section: Häagen-Dazs (1 posts)
+
+- [ChloroGlow](./brands/chloroglow/index.md): Section: ChloroGlow (1 posts)
+
+- [canva](./brands/canva/index.md): Section: canva (1 posts)
+
+- [Bounty Paper Towels](./brands/bounty-paper-towels/index.md): Section: Bounty Paper Towels (7 posts)
+
+- [Ibotta](./brands/ibotta/index.md): Section: Ibotta (16 posts)
+
+- [Miyoko&#39;s Creamery](./brands/miyokos-creamery/index.md): Section: Miyoko&#39;s Creamery (3 posts)
+
+- [Just Bare® Chicken](./brands/just-bare-chicken/index.md): Section: Just Bare® Chicken (3 posts)
+
+- [Lifesum](./brands/lifesum/index.md): Section: Lifesum (1 posts)
+
+- [Singulart](./brands/singulart/index.md): Section: Singulart (1 posts)
+
+- [Keen](./brands/keen/index.md): Section: Keen (1 posts)
+
+- [Angelcare®](./brands/angelcare/index.md): Section: Angelcare® (1 posts)
+
+- [Diaper Genie®](./brands/diaper-genie/index.md): Section: Diaper Genie® (3 posts)
+
+- [Verizon Small Business Digital Ready Program](./brands/verizon-small-business-digital-ready-program/index.md): Section: Verizon Small Business Digital Ready Program (7 posts)
+
+- [CA Small Business Loan Match](./brands/ca-small-business-loan-match/index.md): Section: CA Small Business Loan Match (1 posts)
+
+- [Moonpig](./brands/moonpig/index.md): Section: Moonpig (3 posts)
+
+- [Boka](./brands/boka/index.md): Section: Boka (1 posts)
+
+- [City Beauty](./brands/city-beauty/index.md): Section: City Beauty (3 posts)
+
+- [Charles Chocolates](./brands/charles-chocolates/index.md): Section: Charles Chocolates (1 posts)
+
+- [ Adobe Photoshop](./brands/adobe-photoshop/index.md): Section:  Adobe Photoshop (1 posts)
+
+- [Whatnot](./brands/whatnot/index.md): Section: Whatnot (1 posts)
+
+- [Hers](./brands/hers/index.md): Section: Hers (3 posts)
+
+- [Culligan](./brands/culligan/index.md): Section: Culligan (1 posts)
+
+- [Sanpellegrino CIAO!](./brands/sanpellegrino-ciao/index.md): Section: Sanpellegrino CIAO! (1 posts)
+
+- [Clean Simple Eats](./brands/clean-simple-eats/index.md): Section: Clean Simple Eats (1 posts)
+
+- [Fortunoff Backyard Store](./brands/fortunoff-backyard-store/index.md): Section: Fortunoff Backyard Store (1 posts)
+
+- [e.l.f. Cosmetics](./brands/elf-cosmetics/index.md): Section: e.l.f. Cosmetics (1 posts)
+
+- [Hearth Display](./brands/hearth-display/index.md): Section: Hearth Display (1 posts)
+
+- [Nebula](./brands/nebula/index.md): Section: Nebula - Nebula Review: Gain Clarity This Year with Psychic Readings (1 posts)
+
+- [Duckbill](./brands/duckbill/index.md): Section: Duckbill (1 posts)
+
+- [Orange House](./brands/orange-house/index.md): Section: Orange House (1 posts)
+
+- [Maison Perrier](./brands/maison-perrier/index.md): Section: Maison Perrier (1 posts)
+
+- [Great Lakes Wellness ](./brands/great-lakes-wellness/index.md): Section: Great Lakes Wellness  (1 posts)
+
+- [Creative Crushin&#39;](./creative-crushin/index.md): Section: Creative Crushin&#39; - Celebrate creatives and makers shaking up the world with style, color, and innovation. (52 posts)
+
+- [Travel](./travel/index.md): Section: Travel - Find your creative travel spark plus daily home, food, and DIY inspiration! (2077 posts)
+
+- [Jetset Journeys](./travel/jetset-journeys/index.md): Section: Jetset Journeys - Explore epic getaways, travel guides, and unforgettable adventures around the world. (7 posts)
+
+- [Flights of Fancy](./travel/flights-of-fancy/index.md): Section: Flights of Fancy - Get wanderlusty with dreamy destinations, travel inspo, and flight-friendly tips. (7 posts)
+
+- [Style &amp; Shopping ](./shopping/index.md): Section: Style &amp; Shopping  - From must-haves to hidden gems, shop what’s trending and totally Brit &#43; Co–approved. (2526 posts)
+
+- [Tech](./shopping/tech/index.md): Section: Tech - Find creative tech content plus daily home, food, and DIY inspiration! (7860 posts)
+
+- [Home Decor Trends &amp; Inspo](./shopping/home-decor-trends-inspiration/index.md): Section: Home Decor Trends &amp; Inspo - Find your creative home decor spark plus daily home, food, and DIY inspiration! (3505 posts)
+
+- [Budget-Friendly Buys](./shopping/home-decor-trends-inspiration/deals/index.md): Section: Budget-Friendly Buys - Find creative budget-friendly home ideas plus daily home, food, and DIY inspiration! (847 posts)
+
+- [Best Kitchen Tools and Gadgets](./shopping/home-decor-trends-inspiration/best-kitchenware/index.md): Section: Best Kitchen Tools and Gadgets - Express your creativity in the kitchen with our favorite kitchen tools and gadgets. (285 posts)
+
+- [Style News](./shopping/style-news/index.md): Section: Style News - Find style news plus daily home, food, and DIY inspiration! (3518 posts)
+
+- [Style Trends &amp; Inspo](./shopping/style-trends/index.md): Section: Style Trends &amp; Inspo - Find creative trends plus daily home, food, and DIY inspiration! (5475 posts)
+
+- [Shoes &amp; Accessories](./shopping/style-trends/shoes-accessories/index.md): Section: Shoes &amp; Accessories - Step up your style with trending shoes and accessories that finish the look. (119 posts)
+
+- [Best Beauty Products](./shopping/beauty-products/index.md): Section: Best Beauty Products - Explore trending beauty products plus daily home, food, and DIY inspiration! (2212 posts)
+
+- [Selfmade](./selfmade/index.md): Section: Selfmade - Find coverage and content of B&#43;C&#39;s Selfmade Women&#39;s Business Accelerator plus daily home, food, and DIY inspiration! (81 posts)
+
+- [Brit &#43; Co Picks](./britcopicks/index.md): Section: Brit &#43; Co Picks - Explore great products we&#39;ve found around the web from trending gear we&#39;ve found on TikTok to things we&#39;ve explored on our walks around town. (2743 posts)
+
+- [Astrology](./astrology/index.md): Section: Astrology - Discover horoscopes, zodiac signs, and astrology insights that empower your everyday life. (171 posts)
+
+- [Horoscopes](./astrology/horoscopes/index.md): Section: Horoscopes - Your daily, weekly, and monthly horoscopes to keep you inspired and aligned. (128 posts)
+
+- [Ask An Astrologer](./astrology/ask-astrologer/index.md): Section: Ask An Astrologer - Got questions? Our astrologers are here with personalized answers and cosmic advice. (9 posts)
+
+- [Zodiac Signs](./astrology/zodiac-signs/index.md): Section: Zodiac Signs - Learn all about your zodiac sign’s traits, compatibility, and cosmic destiny. (54 posts)
+
+- [Podcasts](./listen/index.md): Section: Podcasts - Want the inside scoop on what’s really trending? Join insider hosts Chloe Williams and Kayla Walden each week. (77 posts)
+
+- [Podcasts-New](./podcasts/index.md): Section: Podcasts-New - Want the inside scoop on what’s really trending? Get your weekly dose of pop culture buzz with Yap City! (8 posts)
+
+
+## API Endpoints
+
+- [Search](/search): Site-wide content search
+
+- [Main RSS Feed](https://www.brit.co/feeds/feed.rss): Latest content in RSS format
+
+
+
+Last updated: 2026-07-18

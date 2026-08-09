@@ -1,12 +1,11 @@
 aid: brit
 name: Brit + Co
-description: Brit + Co is a lifestyle and entertainment media platform founded by Brit
-  Morin that publishes content and creative education for a primarily women audience.
-  It covers self-care, food, home and DIY, travel, relationships, celebrity and entertainment
-  news, horoscopes, shopping guides, and games, and operates a learning platform (learn.brit.co)
-  offering more than one hundred creative online classes. The company was surfaced as a
-  portfolio company of Slow Ventures. It is a consumer media and e-learning brand and does
-  not currently publish a public developer API, developer portal, or machine-readable API
+description: Brit + Co is a lifestyle and entertainment media platform founded by Brit Morin that publishes
+  content and creative education for a primarily women audience. It covers self-care, food, home and DIY,
+  travel, relationships, celebrity and entertainment news, horoscopes, shopping guides, and games, and
+  operates a learning platform (learn.brit.co) offering more than one hundred creative online classes.
+  The company was surfaced as a portfolio company of Slow Ventures. It is a consumer media and e-learning
+  brand and does not currently publish a public developer API, developer portal, or machine-readable API
   artifacts; this profile captures its public web identity and domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/brit/refs/heads/main/apis.yml
 x-type: company
@@ -28,7 +27,7 @@ accessModel:
   method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-08-08'
 image: https://www.brit.co/favicon.ico
 tags:
 - Company
@@ -63,8 +62,14 @@ common:
   url: security/brit-domain-security.yml
 - type: WellKnown
   url: well-known/brit-well-known.yml
+- type: Blog
+  url: https://www.brit.co
+- type: LLMsTxt
+  url: llms/brit-llms.txt
 x-enrichment:
   date: '2026-07-19'
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-merged-from:
+- brit-co
